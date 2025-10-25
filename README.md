@@ -50,7 +50,7 @@ When not building AI, we explore philosophy, design, and data ethics.
 ## 🌐 Connect with Us
 
 - 🌍 [Website](https://www.akrivalabs.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/akriva-labs-a20522390/]))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/akriva-labs-a20522390/])
 - 💻 [GitHub](https://github.com/akrivalabs)
 - 🐦 [Twitter / X](https://twitter.com/AkrivaLabs)
 
